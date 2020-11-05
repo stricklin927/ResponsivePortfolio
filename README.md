@@ -21,4 +21,3 @@ For this project I created a responsive portfolio template that can render well 
 * HTML5
 * CSS3
     * Bootstrap
-        * Navbar
