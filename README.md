@@ -8,13 +8,13 @@ For this project I created a responsive portfolio template that can render well 
 
 ## App Demo
 ### About Me
-![AboutMe](/assets/images/appdemo/screenshot1.png)
+![AboutMe](/assets/Images/appdemo/screenshot1.png)
 
 ### Portfolio
-![Portfolio](/assets/images/appdemo/screenshot2.png)
+![Portfolio](/assets/Images/appdemo/screenshot2.png)
 
 ### Contact
-![Contact](/assets/images/appdemo/screenshot2.png)
+![Contact](/assets/Images/appdemo/screenshot2.png)
 
 
 ## Built with
