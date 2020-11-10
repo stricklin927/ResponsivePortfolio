@@ -14,7 +14,7 @@ For this project I created a responsive portfolio template that can render well 
 ![Portfolio](/assets/Images/appdemo/screenshot2.png)
 
 ### Contact
-![Contact](/assets/Images/appdemo/screenshot2.png)
+![Contact](/assets/Images/appdemo/screenshot3.png)
 
 
 ## Built with
